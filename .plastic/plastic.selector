@@ -1,0 +1,4 @@
+repository "Metaverse-digital-art-gallery@unity_daBagVZEX9h93g@cloud"
+  path "/"
+    br "/main"
+    co "/main"
